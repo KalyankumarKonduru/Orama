@@ -116,6 +116,9 @@ Logs are saved in `output/inference_log_<timestamp>.log`.
 ### Output Video
 - **Left Side**: Raw video with frame counter.
 - **Right Side**: Processed video with detected objects (green bounding boxes) and collision risks (red bounding boxes with risk percentage).
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/efe4e178-5423-4275-9493-de7671eeae53" />
+</p>
 
 ### Performance Metrics
 - **Detection Accuracy**:
