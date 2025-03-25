@@ -70,7 +70,7 @@ ORAMA/
 ### Installation
 #### Clone the Repository
 ```bash
-git clone https://github.com/Aaris03Khan/orama.git
+git clone https://github.com/KalyankumarKonduru/Orama.git
 cd orama
 ```
 
